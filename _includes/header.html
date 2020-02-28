@@ -1,10 +1,11 @@
 <header>
-    <div>
-      <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
+  <div class="container">
+    <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
       <h1>{{ site.title | downcase }}@home:~$</h1>
-      </a>
-      <div class="header-links">
-        {% include links.html %}
-      </div>
+    </a>
+    <h2>{{ site.description }}</h2>
+    <div class="header-links">
+      {% include links.html %}
     </div>
-  </header>
+  </div>
+</header>
