@@ -11,6 +11,20 @@ VS Code combined with Markdown and git (and GitHub, Gitlab etc) make up a very p
 
 I recommend structuring your notes in folders that make sense to you. Well structured notes serve a dual purpose, the first is to make the knowledge stick better during the research phase, the second is to make it easier to find what you need when you have to use your notes later.
 
+All of the extensions listed below can also be installed in VSCodium (which is installed by default in Parrot), or you can [install VS Code via snap](https://code.visualstudio.com/docs/setup/linux):
+
+```bash
+sudo snap install --classic code # or code-insiders
+```
+
+## Fonts
+
+I'm a developer, and a huge fan of the [Fira Code]() font. If you, like me, want to run this on Linux, you can install the fonts I use with:
+
+```bash
+sudo apt install fonts-firacode fonts-noto-color-emoji
+```
+
 ## VS Code configuration
 
 The following extensions should be installed when viewing/using this repository:
