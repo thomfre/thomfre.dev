@@ -19,7 +19,7 @@ sudo snap install --classic code # or code-insiders
 
 ## Fonts
 
-I'm a developer, and a huge fan of the [Fira Code]() font. If you, like me, want to run this on Linux, you can install the fonts I use with:
+I'm a developer, and a huge fan of the [Fira Code](https://github.com/tonsky/FiraCode) font. If you, like me, want to run this on Linux, you can install the fonts I use with:
 
 ```bash
 sudo apt install fonts-firacode fonts-noto-color-emoji
