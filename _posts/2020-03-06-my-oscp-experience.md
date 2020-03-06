@@ -17,7 +17,7 @@ Unless you're already working as a penetration tester, this should be about lear
 
 PWK is a foundational, entry-level, course. If you want to do it - do it! The listed prerequisites are only _Solid understanding of TCP/IP networking_ and _Reasonable Windows and Linux administration experience_.
 
-If you want to do something to prepare, or need a refresher on TCP/IP, I recommend [eLearnSecurity's PTS](https://www.elearnsecurity.com/course/penetration_testing_student/). That is a nice introduction to penetration testing, and has a great chapter on networking basics.
+If you want to do something to prepare, or need a refresher on TCP/IP, I recommend [eLearnSecurity's PTS](https://www.elearnsecurity.com/course/penetration_testing_student/). PTS is a nice introduction to penetration testing, and has a great chapter on networking basics.
 
 The most important thing you should do before you start, is to ensure that you calendar is empty when your lab time starts.
 
@@ -107,7 +107,7 @@ I had my "battle plan" ready, and knew exactly where I wanted to start. All of m
 
 The first target took me a bit longer than I had hoped, but the first points were mine after about an hour and a half. I got stuck a couple times, but I had a plan for this as well, and jumped to other targets after being stuck for what I considered to be long enough. This trick was what I needed to get the "passing score", which I got around 7 hours in. But my goal was to get 100%, so I still had more work to do.
 
-I made it almost to the end, and got stuck on the last privesc for several hours. I was almost certain I had the correct idea, but I couldn't get it to work. That's when I realized I had to Try Harder, and don't give up. And that was the motivation I needed to finish the last target at 01:42 - 15 hours and 42 minutes after I started.
+I made it almost to the end, and got stuck on the last privesc for several hours. I was almost certain I had the correct idea, but I couldn't get it to work. That's when I realized I had to Try Harder, and don't give up. And that was the motivation I needed to finish the last target at 01:42 - 15 hours and 42 minutes after I started. Didn't see the need for Metasploit or Meterpreter, so I ended up not using any of them.
 
 I decided to go back and try to re-run all the commands I had written down in my notes, to make sure I had all of them written down correctly. I did the first couple machines, then decided to get some sleep. I woke up way earlier than I usually do, checked the last targets, and ended the exam at 07:15 - 21 hours and 15 minutes after I started.
 
