@@ -5,6 +5,8 @@ categories: offsec oscp
 published: true
 ---
 
+![](/assets/images/oscp/oscp.png)
+
 I hadn't even heard about OSCP until I noticed that a colleague had taken it early in 2019. So I decided that I want to do the same. Fast forward to November 2019, and I decided it was time to do it. So I did. I want to share a bit about my experience (sorry, no spoilers), and my advice on how to succeed.
 
 ## My advice
@@ -17,7 +19,7 @@ PWK is a foundational, entry-level, course. If you want to do it - do it! The li
 
 If you want to do something to prepare, or need a refresher on TCP/IP, I recommend [eLearnSecurity's PTS](https://www.elearnsecurity.com/course/penetration_testing_student/). That is a nice introduction to penetration testing, and has a great chapter on networking basics.
 
-The thing you should do before you start, is to ensure that you calendar is empty when your lab time starts.
+The most important thing you should do before you start, is to ensure that you calendar is empty when your lab time starts.
 
 ### PWK advice
 
@@ -36,8 +38,6 @@ The thing you should do before you start, is to ensure that you calendar is empt
 - Don't put unnecessary restrictions on yourself - use both Metasploit and the Forums when needed (but do also try to understand what Metasploit do, and try to do the same without)
 
 ### Exam advice
-
-The most important thing when preparing for the exam, is to know your own limits, and make a battle plan.
 
 - Schedule your exam early (at least one month in advance), and change it later if you need to - this way you can get the day/time you want
 - Schedule the exam for a time slot that best fits you - for me this was early (but not too early) in the day, on a Thursday (weekend directly after the report was submitted)
@@ -119,7 +119,9 @@ Then came the part most people don't tell you about. The confirmation email said
 
 ![](/assets/images/oscp/result.png)
 
-Turned out in the end that I didn't do anything wrong, and I finally got the message that I passed the exam! This was a huge reward after a lot of hard work. But the best reward, is all the new knowledge I have.
+Turned out in the end that I didn't do anything wrong, and I finally got the message that I passed the exam! This is a huge reward after a lot of hard work.
+
+The best reward however, is all the new knowledge I've got.
 
 ## Time spent
 
