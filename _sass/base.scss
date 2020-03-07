@@ -332,6 +332,19 @@ footer {
   a {
     color: slategray;
   }
+
+  .social-link {
+    width: 32px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .license-link {
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    margin-top: -25px;
+  }
 }
 
 #wrapper {
