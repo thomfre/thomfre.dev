@@ -99,6 +99,8 @@ When I finally stopped asking myself if I was ready or not for the exam, I knew 
 
 After spending every day working in the labs, I took a break the last days before the exam. To minimize all external factors, I also got a clean machine to use for the exam, and set it up in my home office. I made sure I had enough snacks ready.
 
+![](/assets/images/oscp/desk.png)
+
 I got up early, had a nice breakfast and was ready about 30 minutes before my scheduled start time. I made sure to start the proctoring software, and do the pre-exam steps, 15-20 minutes prior to my exam start time. This ensured that I was ready to start when I got the connection pack.
 
 The proctors were both professional and courteous, and the entire proctoring was very unobtrusive. The software was simple to use, and kept working flawless for the entire duration of my exam.
