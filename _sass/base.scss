@@ -164,10 +164,6 @@ dt {
   font-weight: bold;
 }
 
-ul li {
-  //list-style-image: url("../assets/bullet.png");
-}
-
 blockquote {
   color: $blockquote-color;
   padding-left: 10px;
@@ -320,15 +316,19 @@ a:focus {
 
 /* Make footer stick to bottom */
 
-.pagination,
-footer {
-  margin-top: 50px;
+.pagination {
   height: 50px;
   line-height: 50px;
   text-align: center;
 }
 
 footer {
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 40px;
+  padding-top: 10px;
+  height: 60px;
+  text-align: center;
+
   a {
     color: slategray;
   }
@@ -343,10 +343,9 @@ footer {
     display: block;
     font-size: 12px;
     font-weight: normal;
-    margin-top: -25px;
   }
 }
 
 #wrapper {
-  min-height: calc(100vh - 100px);
+  min-height: calc(100vh - 110px);
 }
