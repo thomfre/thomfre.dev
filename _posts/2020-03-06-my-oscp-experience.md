@@ -29,6 +29,7 @@ The most important thing you should do before you start, is to ensure that you c
 - Watch the videos - all of them
 - Watch the videos for a chapter first, then read the chapter (or the other way around)
 - Take notes ([I recommend Markdown in VS Code](/using-vs-code-for-note-taking))
+- Always revert (respect other students, back off if the machine was recently reverted)
 - Do the exercises and write the lab report
 - Spend as much time as you can in the lab, aim high - pwn all the machines!
 - Make it a goal to pivot to all networks
@@ -46,6 +47,7 @@ The most important thing you should do before you start, is to ensure that you c
 - Start with the right mentality - you're gonna nail this!
 - Focus on time management, make a plan and stick to it
 - Know your own limits - if you know need to sleep, make time for it!
+- Use the same VM as you used for the lab
 - Sticking to your methodology is key (which is what the lab is meant to teach you)
 - Take breaks - stepping away might be exactly what you need to see that problem in a different light when you come back
 - Don't sit and look at scans, have them running in the background while doing other things
