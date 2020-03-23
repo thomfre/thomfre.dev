@@ -44,7 +44,7 @@ The most important thing you should do before you start, is to ensure that you c
 - Schedule the exam for a time slot that best fits you - for me this was early (but not too early) in the day, on a Thursday (weekend directly after the report was submitted)
 - Get proper rest the two days before the exam
 - Prepare your [report template](https://github.com/thomfre/OSCP-Exam-Report-Template) before starting the exam
-- Start with the right mentality - you're gonna nail this!
+- Start with the right mentality - you're going to nail this!
 - Focus on time management, make a plan and stick to it
 - Know your own limits - if you know need to sleep, make time for it!
 - Use the same VM as you used for the lab
