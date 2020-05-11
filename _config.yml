@@ -28,7 +28,7 @@ twitter_username: thomfredev
 github_username:  thomfre
 
 permalink: /:title
-paginate: 3
+paginate: 5
 paginate_path: /page/:num/
 
 defaults:

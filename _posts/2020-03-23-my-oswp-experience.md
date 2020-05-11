@@ -72,7 +72,7 @@ Then came the long wait again. I was used to this now, after the brutal wait for
 
 ## Time spent
 
-I decided that I wanted to track all the time I spent doing PWK and the exam, so I have very accurate numbers of how much time I used.
+I decided that I wanted to track all the time I spent doing the course and the exam, so I have very accurate numbers of how much time I used.
 
 Total hours spent: **59**
 
