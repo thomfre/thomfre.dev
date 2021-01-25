@@ -8,11 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-<<<<<<< HEAD
-# If you need help with YAML syntax, here are some quick references for you:
-=======
 # If you need help with YAML syntax, here are some quick references for you: 
->>>>>>> 30f29f840a64142a02badc972723615f2c243ed3
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -29,7 +25,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thomfre.dev" # the base hostname & protocol for your site, e.g. http://example.com
 owner: "thomfre"
 twitter_username: thomfredev
-<<<<<<< HEAD
 github_username: thomfre
 
 permalink: /:title
@@ -38,17 +33,6 @@ paginate_path: /page/:num/
 
 defaults:
   - scope:
-=======
-github_username:  thomfre
-
-permalink: /:title
-paginate: 5
-paginate_path: /page/:num/
-
-defaults:
-  -
-    scope:
->>>>>>> 30f29f840a64142a02badc972723615f2c243ed3
       path: ""
       type: "posts"
     values:
@@ -58,10 +42,7 @@ defaults:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-<<<<<<< HEAD
-=======
 
->>>>>>> 30f29f840a64142a02badc972723615f2c243ed3
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
