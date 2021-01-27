@@ -274,7 +274,7 @@ We can also add a custom Slackbot response to make Slackbot respond to the messa
 
 You can deliver this any way you want, like via email and a nice [banner stating that the attachment has been scanned and found safe to execute](/fake-microsoft-alerts).
 
-## Why does this work
+## Why this works
 
 The payload above doesn't exploit a single vulnerability, yet it can allow us to take full control over the Slack accounts logged in on the machine.
 
@@ -282,7 +282,7 @@ This is a combination of weakness in the way cookies and local storage is stored
 
 We could use the exact same trick to extract tokens from Teams, Chrome or any other Chromium/Electron client.
 
-### Why doesn't this work on MacOS?
+### Why this doesn't work on MacOS
 
 The payload doesn't work on MacOS because the MacOS sandbox restrict access to the file system. Sandbox escape is out of scope for a simple phishing awareness exercise.
 
