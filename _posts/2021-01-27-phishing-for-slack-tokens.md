@@ -47,7 +47,7 @@ If successful, you should see a message posted by you in that channel.
 
 That was fun, but let's do something useful!
 
-We can do pretty much everything with the token/cookie, but for the purpose of awareness training, we can use it to send a message telling the user to stop running attachments from emails.
+We can do pretty much everything with the token/cookie, but for the purpose of awareness training, we can use it to [send a message](https://api.slack.com/methods/chat.postMessage) telling the user to stop running attachments from emails.
 
 Let's use this scenario: we want to demonstrate the dangers of opening malicious documents. To achieve this, we use a Word document.
 
@@ -271,3 +271,8 @@ We can also add a custom Slackbot response to make Slackbot respond to the messa
 ### Email it
 
 You can deliver this any way you want, like via email and a nice [banner stating that the attachment has been scanned and found safe to execute](/fake-microsoft-alerts).
+
+## References
+
+- [Slack API](https://api.slack.com/methods)
+- [How can I URL encode a string in Excel VBA?](https://stackoverflow.com/questions/218181/how-can-i-url-encode-a-string-in-excel-vba)
