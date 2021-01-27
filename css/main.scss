@@ -1,4 +1,91 @@
 ---
 #
 ---
-@import "base";
+
+@import 'base';
+
+.by-line {
+    padding-left: 0.5em;
+}
+
+.archive-title {
+}
+
+.post-list,
+.archive-list {
+    margin-top: 3em;
+}
+
+.post-categories {
+    padding-bottom: 0.5em;
+    color: $byline;
+    display: inline-block;
+}
+
+.post-category {
+    color: $byline;
+    padding: 0.25em 0.5em;
+    border-radius: 3px;
+    text-transform: capitalize;
+    text-shadow: unset;
+}
+
+.post-tags {
+    color: $byline;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    display: inline-block;
+}
+
+.post-tag {
+    color: $byline;
+    border-radius: 3px;
+    text-shadow: unset;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.post-box {
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: #010101;
+
+    .post-categories {
+        font-size: 80%;
+        padding-bottom: 0;
+    }
+
+    .post-category {
+        padding: 0;
+        text-transform: capitalize;
+    }
+
+    .post-tags {
+        font-size: 80%;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .post-time {
+        font-size: 80%;
+        color: $byline;
+        display: inline-block;
+    }
+}
+
+.post-link {
+    margin-bottom: 3px;
+}
+
+.post-time {
+    color: $byline;
+    padding-left: 1em;
+    padding-right: 1em;
+    display: inline-block;
+}
+
+.post-description {
+    padding-top: 6px;
+}

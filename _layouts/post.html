@@ -3,10 +3,27 @@ layout: default
 ---
 
 <article>
-    <h2>{{ page.title }}</h2>
-    <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
-        {% assign d = page.date | date: "%-d" %} {{ page.date | date: "%A, %B" }} {% case d %} {% when '1' or '21' or '31' %}{{ d }}st {% when '2' or '22' %}{{ d
-        }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}, {{ page.date | date: "%Y" }}</time
-    >
+    <h1>{{ page.title }}</h1>
+    <div class="post-categories">
+        <i class="far fa-bookmark"></i> {% for category in page.categories %} {% capture category_name %}{{ category }}{% endcapture %}
+        <a href="/category/{{ category_name }}"
+            ><code class="post-category"><nobr>{{ category_name }}</nobr></code></a
+        >
+        {% endfor %}
+    </div>
+    <div class="post-time">
+        <i class="far fa-calendar-alt"></i>
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
+            {% assign d = page.date | date: "%-d" %} {{ page.date | date: "%A, %B" }} {% case d %} {% when '1' or '21' or '31' %}{{ d }}st {% when '2' or '22' %}{{
+            d }}nd {% when '3' or '23' %}{{ d }}rd {% else %}{{ d }}th {% endcase %}, {{ page.date | date: "%Y" }}
+        </time>
+    </div>
+    <div class="post-tags">
+        <i class="fas fa-tags"></i> {% for tag in page.tags %} {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}"
+            ><code class="post-tag"><nobr>#{{ tag_name }}</nobr></code></a
+        >
+        {% endfor %}
+    </div>
     {{ content }}
 </article>
