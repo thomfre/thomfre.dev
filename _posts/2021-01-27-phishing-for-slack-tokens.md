@@ -6,7 +6,9 @@ tags: phishing slack word macro
 published: true
 ---
 
-Slack (and other Electron apps) often use cookies to store session/access tokens. This got me thinking, maybe we can extract and use those tokens for something?
+Slack (and other Electron apps) often use cookies to store session/access tokens. Perhaps we can extract and use these tokens for something?
+
+Thanks to [loca1gh0s7](https://loca1gh0s7.github.io/) who gave me this idea!
 
 ## Extracting the tokens
 
