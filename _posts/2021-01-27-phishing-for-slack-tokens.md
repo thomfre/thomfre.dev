@@ -274,7 +274,20 @@ We can also add a custom Slackbot response to make Slackbot respond to the messa
 
 You can deliver this any way you want, like via email and a nice [banner stating that the attachment has been scanned and found safe to execute](/fake-microsoft-alerts).
 
+## Why does this work
+
+The payload above doesn't exploit a single vulnerability, yet it can allow us to take full control over the Slack accounts logged in on the machine.
+
+This is a combination of weakness in the way cookies and local storage is stored, and the fact that we trick the user into executing this code locally.
+
+We could use the exact same trick to extract tokens from Teams, Chrome or any other Chromium/Electron client.
+
+### Why doesn't this work on MacOS?
+
+The payload doesn't work on MacOS because the MacOS sandbox restrict access to the file system. Sandbox escape is out of scope for a simple phishing awareness exercise.
+
 ## References
 
 - [Slack API](https://api.slack.com/methods)
 - [How can I URL encode a string in Excel VBA?](https://stackoverflow.com/questions/218181/how-can-i-url-encode-a-string-in-excel-vba)
+- [n0ncetonic/toke_em](https://github.com/n0ncetonic/toke_em)
