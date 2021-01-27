@@ -1,5 +1,5 @@
 ---
-title: 'Creating fake alerts in phishing emails'
+title: "Creating fake alerts in phishing emails"
 date: 2020-11-06 12:00:00 +0100
 categories: phishing
 tags: phishing office
@@ -42,14 +42,15 @@ But we can do better than that! Let's take it one step further, and remove the a
 
 ```html
 <style>
-    p {
-        display: none !important;
-    }
+  p {
+    display: none !important;
+  }
 </style>
 <h2>Hei xxx!</h2>
 <p style="display: block !important;">
-    Det har skjedd en feil under synkronisering av din konto, det er derfor viktig at du så snart som mulig logger deg inn <a href="http://aaaa">her</a> så raskt
-    som mulig for å rette denne feilen.
+  Det har skjedd en feil under synkronisering av din konto, det er derfor viktig
+  at du så snart som mulig logger deg inn <a href="http://aaaa">her</a> så raskt
+  som mulig for å rette denne feilen.
 </p>
 ```
 

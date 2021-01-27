@@ -1,5 +1,5 @@
 ---
-title: 'My OSWP experience'
+title: "My OSWP experience"
 date: 2020-03-23 21:00:00 +0100
 categories: certifications
 tags: offsec oswp
@@ -18,18 +18,18 @@ Make sure to purchase the correct equipment. I recommend sticking to the recomme
 
 ### WiFu advice
 
--   Read all of the PDF, even the highly technical boring stuff
--   Take notes ([I recommend Markdown in VS Code](/using-vs-code-for-note-taking))
--   Do the exercises and write down your steps (good training for the exam report, and nice to have later)
--   Use the latest Kali, or whatever Linux distro you prefer (no need to use the provided image)
+- Read all of the PDF, even the highly technical boring stuff
+- Take notes ([I recommend Markdown in VS Code](/using-vs-code-for-note-taking))
+- Do the exercises and write down your steps (good training for the exam report, and nice to have later)
+- Use the latest Kali, or whatever Linux distro you prefer (no need to use the provided image)
 
 ### Exam advice
 
--   Schedule your exam a couple days in advance
--   Schedule the exam for a time slot that best fits you
--   Use the provided report template
--   Keep it simple
--   Take notes and screenshots
+- Schedule your exam a couple days in advance
+- Schedule the exam for a time slot that best fits you
+- Use the provided report template
+- Keep it simple
+- Take notes and screenshots
 
 ## My background
 
@@ -41,11 +41,11 @@ I didn't do anything to prepare for this, other than purchasing the necessary eq
 
 My equipment:
 
--   D-Link DIR-601
--   Netgear WNR1000v2
--   Netgear WN111v2 (didn't use this one at all)
--   [Alfa AC1900](https://www.amazon.com/gp/product/B01MZD7Z76)
--   [Alfa AWUS036NHA](https://www.amazon.com/gp/product/B004Y6MIXS)
+- D-Link DIR-601
+- Netgear WNR1000v2
+- Netgear WN111v2 (didn't use this one at all)
+- [Alfa AC1900](https://www.amazon.com/gp/product/B01MZD7Z76)
+- [Alfa AWUS036NHA](https://www.amazon.com/gp/product/B004Y6MIXS)
 
 I also had various Windows and Linux clients, some of the exercises was impossible to do with the Windows clients (might have been the hardware that was the issue).
 
@@ -88,10 +88,10 @@ Total hours spent: **59**
 
 ## My timeline
 
--   **January 23rd, 2020**: WiFu Ordered
--   **January 26th, 2020**: Course material received
--   **March 2nd, 2020**: Course started
--   **March 10th, 2020**: Exam scheduled (March 15th 17:00)
--   **March 15th, 2020**: Exercises done
--   **March 15th, 2020**: Exam done and report submitted
--   **March 19th, 2020**: Exam result received, delivery address submitted
+- **January 23rd, 2020**: WiFu Ordered
+- **January 26th, 2020**: Course material received
+- **March 2nd, 2020**: Course started
+- **March 10th, 2020**: Exam scheduled (March 15th 17:00)
+- **March 15th, 2020**: Exercises done
+- **March 15th, 2020**: Exam done and report submitted
+- **March 19th, 2020**: Exam result received, delivery address submitted

@@ -1,5 +1,5 @@
 ---
-title: 'My OSWE experience'
+title: "My OSWE experience"
 date: 2020-07-17 21:00:00 +0200
 categories: certifications
 tags: offsec oswe awae
@@ -20,21 +20,21 @@ This is not a beginner certification. Unless you already work as a developer, yo
 
 ### AWAE advice
 
--   As with the other OFfensive Security courses, read all of the PDF!
--   Take notes ([I recommend Markdown in VS Code](/using-vs-code-for-note-taking))
--   Do the exercises and write down your steps (good training for the exam report, and nice to have later)
--   Do the extra miles
--   Use the latest Kali, or whatever Linux distro you prefer
--   Do not treat this as a "Code Review Certification", this is a penetration testing certification, with a white box focus
+- As with the other OFfensive Security courses, read all of the PDF!
+- Take notes ([I recommend Markdown in VS Code](/using-vs-code-for-note-taking))
+- Do the exercises and write down your steps (good training for the exam report, and nice to have later)
+- Do the extra miles
+- Use the latest Kali, or whatever Linux distro you prefer
+- Do not treat this as a "Code Review Certification", this is a penetration testing certification, with a white box focus
 
 ### Exam advice
 
--   Schedule your exam as soon as possible
--   Schedule the exam for a time slot that best fits you
--   Use the provided report template
--   Keep it simple
--   Take notes and screenshots (make sure you get the required screenshots!)
--   Do not treat this as a "Code Review Exam"! This is a penetration testing certification, use the code to your advantage, but also use your regular penetration testing techniques
+- Schedule your exam as soon as possible
+- Schedule the exam for a time slot that best fits you
+- Use the provided report template
+- Keep it simple
+- Take notes and screenshots (make sure you get the required screenshots!)
+- Do not treat this as a "Code Review Exam"! This is a penetration testing certification, use the code to your advantage, but also use your regular penetration testing techniques
 
 ## My background
 
@@ -84,11 +84,11 @@ Total hours spent: **63**
 
 ## My timeline
 
--   **April 23rd, 2020**: AWAE Ordered
--   **May 17th, 2020**: Course material received
--   **June 6th, 2020**: Course started
--   **July 12th, 2020**: Exam started
--   **July 13th, 2020**: Exam done
--   **July 14th, 2020**: Exam report submitted
--   **July 14th, 2020**: AWAE Update released, and received!
--   **July 16th, 2020**: Exam result received, delivery address submitted
+- **April 23rd, 2020**: AWAE Ordered
+- **May 17th, 2020**: Course material received
+- **June 6th, 2020**: Course started
+- **July 12th, 2020**: Exam started
+- **July 13th, 2020**: Exam done
+- **July 14th, 2020**: Exam report submitted
+- **July 14th, 2020**: AWAE Update released, and received!
+- **July 16th, 2020**: Exam result received, delivery address submitted
