@@ -1,7 +1,8 @@
 ---
 title: "My OSWE experience"
 date: 2020-07-17 21:00:00 +0200
-categories: offsec oswe awae
+categories: certifications
+tags: offsec oswe awae
 published: true
 ---
 

@@ -9,21 +9,24 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #gem "jekyll", "~> 4.0.0"
 
-gem "jekyll-theme-hacker", "~>0.1.1"
+gem "jekyll-theme-hacker", "~>0.1.2"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", "~> 203", group: :jekyll_plugins
+gem "github-pages", "~> 211", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.15.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", ">= 1.1"
   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+
+# CVE-2015-3227
+gem "activesupport", ">= 6.0.0"

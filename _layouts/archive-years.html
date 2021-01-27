@@ -1,0 +1,16 @@
+---
+layout: default
+title: Archive
+---
+
+<!-- Begin List Posts
+================================================== -->
+<section class="recent-posts">
+    <div class="archive-title">
+        <h1>Archive of posts from <b>{{ page.type }} {{ page.title }}</b></h1>
+    </div>
+    <div class="archive-list">
+        {% for post in site.posts %} {% assign postyear = post.date | date: "%Y" %} {% if postyear == page.year %} {% include postbox.html %} {% endif %} {% endfor
+        %}
+    </div>
+</section>

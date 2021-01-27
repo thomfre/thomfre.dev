@@ -1,7 +1,8 @@
 ---
-title:  "My OSWP experience"
-date:   2020-03-23 21:00:00 +0100
-categories: offsec oswp
+title: "My OSWP experience"
+date: 2020-03-23 21:00:00 +0100
+categories: certifications
+tags: offsec oswp
 published: true
 ---
 

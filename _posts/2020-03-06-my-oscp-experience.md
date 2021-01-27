@@ -1,7 +1,8 @@
 ---
-title:  "My OSCP experience"
-date:   2020-03-06 18:30:00 +0100
-categories: offsec oscp
+title: "My OSCP experience"
+date: 2020-03-06 18:30:00 +0100
+categories: certifications
+tags: offsec oscp
 published: true
 ---
 
