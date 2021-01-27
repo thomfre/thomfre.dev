@@ -1,7 +1,8 @@
 ---
-title:  "My OSCP experience"
-date:   2020-03-06 18:30:00 +0100
-categories: offsec oscp
+title: 'My OSCP experience'
+date: 2020-03-06 18:30:00 +0100
+categories: certifications
+tags: offsec oscp
 published: true
 ---
 
@@ -23,49 +24,49 @@ The most important thing you should do before you start, is to ensure that you c
 
 ### PWK advice
 
-- Get as much lab time as you can afford
-- Schedule your exam
-- Read the PDF - all of it
-- Watch the videos - all of them
-- Watch the videos for a chapter first, then read the chapter (or the other way around)
-- Take notes ([I recommend Markdown in VS Code](/using-vs-code-for-note-taking))
-- Always revert (respect other students, back off if the machine was recently reverted)
-- Do the exercises and write the lab report
-- Spend as much time as you can in the lab, aim high - pwn all the machines!
-- Make it a goal to pivot to all networks
-- Do all the fun stuff (pivoting, client side attacks)
-- Take notes! And make a system for note taking ([I recommend Joplin](https://github.com/thomfre/joplin-infosec-templates/))
-- Don't forget post-exploitation, you'll need the information later
-- Don't put unnecessary restrictions on yourself - use both Metasploit and the Forums when needed (but do also try to understand what Metasploit do, and try to do the same without)
+-   Get as much lab time as you can afford
+-   Schedule your exam
+-   Read the PDF - all of it
+-   Watch the videos - all of them
+-   Watch the videos for a chapter first, then read the chapter (or the other way around)
+-   Take notes ([I recommend Markdown in VS Code](/using-vs-code-for-note-taking))
+-   Always revert (respect other students, back off if the machine was recently reverted)
+-   Do the exercises and write the lab report
+-   Spend as much time as you can in the lab, aim high - pwn all the machines!
+-   Make it a goal to pivot to all networks
+-   Do all the fun stuff (pivoting, client side attacks)
+-   Take notes! And make a system for note taking ([I recommend Joplin](https://github.com/thomfre/joplin-infosec-templates/))
+-   Don't forget post-exploitation, you'll need the information later
+-   Don't put unnecessary restrictions on yourself - use both Metasploit and the Forums when needed (but do also try to understand what Metasploit do, and try to do the same without)
 
 ### Exam advice
 
-- Schedule your exam early (at least one month in advance), and change it later if you need to - this way you can get the day/time you want
-- Schedule the exam for a time slot that best fits you - for me this was early (but not too early) in the day, on a Thursday (weekend directly after the report was submitted)
-- Get proper rest the two days before the exam
-- Prepare your [report template](https://github.com/thomfre/OSCP-Exam-Report-Template) before starting the exam
-- Start with the right mentality - you're going to nail this!
-- Focus on time management, make a plan and stick to it
-- Know your own limits - if you know need to sleep, make time for it!
-- Use the same VM as you used for the lab
-- Sticking to your methodology is key (which is what the lab is meant to teach you)
-- Take breaks - stepping away might be exactly what you need to see that problem in a different light when you come back
-- Don't sit and look at scans, have them running in the background while doing other things
-- Don't get stuck on one target, take a look at another target when you've been stuck long enough
-- Stay hydrated, and don't forget to eat
-- Enumerate, enumerate, enumerate!
-- Take notes! And screenshots!
-- Try Harder! (Don't give up!)
+-   Schedule your exam early (at least one month in advance), and change it later if you need to - this way you can get the day/time you want
+-   Schedule the exam for a time slot that best fits you - for me this was early (but not too early) in the day, on a Thursday (weekend directly after the report was submitted)
+-   Get proper rest the two days before the exam
+-   Prepare your [report template](https://github.com/thomfre/OSCP-Exam-Report-Template) before starting the exam
+-   Start with the right mentality - you're going to nail this!
+-   Focus on time management, make a plan and stick to it
+-   Know your own limits - if you know need to sleep, make time for it!
+-   Use the same VM as you used for the lab
+-   Sticking to your methodology is key (which is what the lab is meant to teach you)
+-   Take breaks - stepping away might be exactly what you need to see that problem in a different light when you come back
+-   Don't sit and look at scans, have them running in the background while doing other things
+-   Don't get stuck on one target, take a look at another target when you've been stuck long enough
+-   Stay hydrated, and don't forget to eat
+-   Enumerate, enumerate, enumerate!
+-   Take notes! And screenshots!
+-   Try Harder! (Don't give up!)
 
 ### Recommended tools and resources
 
-- [Joplin](https://joplinapp.org/)
-- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-- [Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
-- [Windows / Linux Local Privilege Escalation Workshop - sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)
-- [AutoRecon](https://github.com/Tib3rius/AutoRecon)
-- [linPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/blob/master/linPEAS)
-- [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
+-   [Joplin](https://joplinapp.org/)
+-   [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+-   [Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
+-   [Windows / Linux Local Privilege Escalation Workshop - sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)
+-   [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+-   [linPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/blob/master/linPEAS)
+-   [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
 
 ## My background
 
@@ -146,13 +147,13 @@ Total hours spent: **376**
 
 ## My timeline
 
-- **November 13th, 2019**: PWK Ordered
-- **December 8th, 2019**: Lab time starts
-- **December 9th, 2019**: Exam scheduled (February 27th, 2020)
-- **December 21st, 2019**: First lab machine pwned
-- **February 8th, 2020**: PWK Lab v1 fully pwned
-- **February 11th, 2020**: New PWK Lab ordered
-- **February 13th, 2020**: Updated material received, and PWK Lab v2 active
-- **February 27th, 2020**: Exam started
-- **February 28th, 2020**: Exam ended, exam report submitted
-- **March 5th, 2020**: Exam result received
+-   **November 13th, 2019**: PWK Ordered
+-   **December 8th, 2019**: Lab time starts
+-   **December 9th, 2019**: Exam scheduled (February 27th, 2020)
+-   **December 21st, 2019**: First lab machine pwned
+-   **February 8th, 2020**: PWK Lab v1 fully pwned
+-   **February 11th, 2020**: New PWK Lab ordered
+-   **February 13th, 2020**: Updated material received, and PWK Lab v2 active
+-   **February 27th, 2020**: Exam started
+-   **February 28th, 2020**: Exam ended, exam report submitted
+-   **March 5th, 2020**: Exam result received
