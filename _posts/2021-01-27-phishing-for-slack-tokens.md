@@ -1,8 +1,9 @@
 ---
 title: "Phishing for Slack-tokens"
-date: 2021-01-27 12:00:00 +0100
+date: 2021-02-04 20:50:00 +0100
 categories: phishing
 tags: phishing slack word macro
+description: Slack (and other Electron apps) often use cookies to store session/access tokens. Perhaps we can extract and use these tokens for phishing awareness training?
 published: true
 ---
 
